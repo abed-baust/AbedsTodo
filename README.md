@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<p align="center">User Part</p>
+<p align="center">
+  <img src="https://github.com/abed-baust/AbedsTodo/blob/main/ScreenShoot/1.JPG" width="350" alt="accessibility text">
+  <img src="https://github.com/abed-baust/AbedsTodo/blob/main/ScreenShoot/2.JPG" width="350" alt="accessibility text">
+  <img src="https://github.com/abed-baust/AbedsTodo/blob/main/ScreenShoot/3.JPG" width="350" alt="accessibility text">
+  <img src="https://github.com/abed-baust/AbedsTodo/blob/main/ScreenShoot/4.JPG" width="350" alt="accessibility text">
+  <img src="https://github.com/abed-baust/AbedsTodo/blob/main/ScreenShoot/5.JPG" width="350" alt="accessibility text">
+  <img src="https://github.com/abed-baust/AbedsTodo/blob/main/ScreenShoot/6.JPG" width="350" alt="accessibility text">
+  <img src="https://github.com/abed-baust/AbedsTodo/blob/main/ScreenShoot/7.JPG" width="350" alt="accessibility text">
+</p>
